@@ -23,7 +23,6 @@ def parse_infile(infile):
 
             elif line_count == 8:
                 line_count = 0
-                target_word = ''
                 continue
 
             line_count += 1
